@@ -18,7 +18,7 @@ print(f"{files[0]}")
 
 
 
-for i in range(files.length):
+for i in range(len(files)):
 
     startupinfo = subprocess.STARTUPINFO()
     startupinfo.dwFlags |= subprocess.STARTF_USESHOWWINDOW
