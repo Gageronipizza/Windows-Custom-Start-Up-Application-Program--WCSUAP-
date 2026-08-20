@@ -1,5 +1,5 @@
 This script was made for python 3.12, probably works for 3.13, idk im not smart enough to know
-V1.0 8 August 2026
+V1.1 8 August 2026
 
 The items inside of files.json are just dummy files, they proabably wont open anything
 Replace them with your actual file path's
